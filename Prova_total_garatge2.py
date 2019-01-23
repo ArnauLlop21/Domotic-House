@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # coding=utf-8
 
+#project done by: 
+# Arnau Llop Iglesias 
+#Tarragona, Catalonia
+
 # sha dimportar les següents llibreries pel
 #correcte funcionament de l'estepper
 
@@ -37,8 +41,8 @@ global DESTINATARI
 global ASSUMPTE
 global COS
 
-USUARI = 'provestdrllop@gmail.com'
-PASS = 'trencacadires21'
+USUARI = 'YouPutYourEMailHere'
+PASS = 'YouPutYourPasswordHere'
 DESTINATARI = 'provesTDRllop@gmail.com' 
 ASSUMPTE = 'RPi3 des de la casa domòtica'
 COS = "Alarma desactivada, has estat tu?"
