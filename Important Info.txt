@@ -2,7 +2,9 @@ Hey!
 My name is Arnau, thank you so much for checking this project out, dont doubt in contacting me if you ever have a question about this project.
 If you ever decide to do so, you can contact me via email at arnau.llop2001@gmail.com I will be happy and glad to help you out if I can!
 
-Please remember that this project was developed ona Raspberry Pi 3 B so may not be compatible with all Raspberry or plataforms.
+You should know that, as this project is registered as official in my country, if you want to use something you just have to mention me or my github at your code or project, apart from that, no problem using parts of my project. You should also know that this whole project is written in Catalan (if you want to use some kind of translator), but if I think it is useful enough I may translate it manually to English to help more people.
+
+Please remember that this project was developed on a Raspberry Pi 3 B so may not be compatible with all Raspberry or plataforms.
 Note that I don't assume ownership of all of my code, as some parts were copied and adapted from the internet.
 
 Thank you!
